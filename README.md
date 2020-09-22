@@ -12,8 +12,7 @@
 ## 🖥 Preview 
 
 <p align="center">
-  <img src="https://www.behance.net/gallery/59803463/Site-Google-Glass?tracking_source=search_projects_recommended%7CGuannabara.jpg" width="700" >
-</p>
+  <img src="https://github.com/Ca-byte/cursoemvideo-html5/blob/master/projeto-glass-html5/_interface/site-google-glass.jpg" width="700"></p>
 
 ---
 
@@ -43,6 +42,5 @@ cd cursoemvideo-html5
 Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
 
 ---
-
 
 Desenvolvido com 💜 por Caroline Vieira
